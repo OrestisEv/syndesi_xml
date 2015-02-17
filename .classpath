@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="/home/orestis-u/workspace/ErO2-v1.2/lib/californium-0.12.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/home/orestis-u/workspace/ErO2-v1.2/lib/comm.jar"/>
+	<classpathentry kind="lib" path="/home/orestis-u/workspace/ErO2-v1.2/lib/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/orestis-u/workspace/ErO2-v1.2/lib/mysql-connector-java-3.0.17-ga-bin.jar"/>
+	<classpathentry kind="lib" path="/home/orestis-u/workspace/ErO2-v1.2/lib/org.restlet.jar"/>
+	<classpathentry kind="lib" path="/home/orestis-u/workspace/ErO2-v1.2/lib/RXTXcomm.jar"/>
+	<classpathentry kind="lib" path="/home/orestis-u/Downloads/stax-src-1.2.0_rc1-dev.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
