@@ -1,6 +1,5 @@
 package ero2.resource.rest;
 
-
 import java.util.Hashtable;
 
 import org.restlet.resource.Get;
